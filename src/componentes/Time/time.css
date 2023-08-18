@@ -1,0 +1,34 @@
+.time{
+    max-width: 100vw;
+    background-color: #D9F7E9;
+    margin: 0 auto;
+    text-align: center;
+    padding: 32px;
+}
+
+.time h2{
+    color: #212121;
+    text-align: center;
+    font-family: Prata;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.time .line{
+    width: 32px;
+    height: 4px;
+    background-color: #57C278;
+    margin: 0 auto;
+    margin-bottom: 42px;
+}
+
+.time_card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,61 @@
+.card{
+    max-width: 262px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.08);
+    background: #FFF;
+    border-radius: 10px;
+
+}
+
+.card_cor-verde{
+    width: 262px;
+    height: 92px;
+    border-radius: 10px 10px 0px 0px;
+    /* background: #57C278; */
+    margin: 0;
+    padding: 0;
+}
+
+.card_cor-branca{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0 0 27px 0;
+    inline-size: 237px;
+    align-items: center;
+}
+
+.card_cor-branca h3{
+    color: #6278F7;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0 0 10px 0;
+    padding: 0;
+    width: 237px;
+    word-wrap: break-word;  
+}
+
+.card_cor-branca p{
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    word-wrap: break-word;
+}
+
+.card_cor-branca img{
+    width: 120px;
+    height: 120px;
+    border-radius: 120.120px;
+    margin-top: -50px;
+    margin-bottom: 18px;
+    padding: 0;
+}
