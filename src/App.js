@@ -99,3 +99,20 @@ export default App;
 // }
 
 // export default App
+
+
+// import { StyledButton } from './components-styled/Button_styled'
+// import { Wrapper } from './components-styled/Wrapper_styled'
+
+// function App() {
+//   return(
+//     <Wrapper>
+//       <StyledButton>escrita</StyledButton>
+//       <StyledButton corVermelha={'red'}>escrita</StyledButton>
+//       <StyledButton>escrita</StyledButton>
+//       <a href='#'>Aoba isso é um link</a>
+//     </Wrapper>
+//   )
+// }
+
+// export default App
