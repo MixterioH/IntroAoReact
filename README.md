@@ -6,4 +6,12 @@ Este é um site que permite o usuário criar um card próprio escolhendo um dos 
 
 ![2023-08-28 22 31 14 localhost 8b43bf426efd](https://github.com/MixterioH/IntroAoReact/assets/37636267/937e3f41-8b56-4a5c-9f2e-028ef7a944ba)
 
-Caso queira testar por conta própria, 
+Caso queira testar por conta própria, execute os seguintes comandos no terminal em sua pasta de preferência:
+
+git clone https://github.com/MixterioH/IntroAoReact.git
+
+npm install
+
+npm start (talvez seja necessário navegar até a pasta do projeto com o comando cd)
+
+e feito, só abrir no navegador localhost3000
