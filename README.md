@@ -1,4 +1,4 @@
-Meu primeiro projeto usando reactJS, estou muito orgulhoso de mostrar para todo mundo que estou aprendendo reactJS, realizei esse projeto pelo curso de ReactJs da Alura, onde conheci muito desse framework, sobre como trabalhar com componentes, renderização do lado do cliente, formulários, states e resumidamente a construir uma página do zero.
+Meu primeiro projeto usando reactJS, estou muito orgulhoso de mostrar para todo mundo que estou aprendendo reactJS, realizei esse projeto pelo curso de ReactJs da Alura, onde conheci muito dessa biblioteca, sobre como trabalhar com componentes, renderização do lado do cliente, formulários, states e resumidamente a construir uma página do zero.
 
 Aqui está uma prévia e uma explicação do projeto:
 
